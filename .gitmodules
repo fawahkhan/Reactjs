@@ -1,3 +1,6 @@
 [submodule "Props-Project"]
 	path = Props-Project
 	url = https://github.com/fawahkhan/Project-13-Cards-using-Reactjs-Props.git
+[submodule "Gallery-Project"]
+	path = Gallery-Project
+	url = https://github.com/fawahkhan/Project-14-Random-Image-Gallery-using-React-hooks-and-axios.git
